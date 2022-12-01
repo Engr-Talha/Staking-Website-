@@ -1,0 +1,328 @@
+Questions:
+
+JSON Files of the data.
+I have not minted so how can I get these nfts.
+how to show unstake nfts. 
+where to show dingar. 
+
+
+How to operate and do upgarde level nfts etc.
+Yeah kaisey kam karey ga.
+
+ //   {
+  //     name: "Sloppy Seals Special NFT #5556",
+  //     description:
+  //       "  Finally, a project that prioritizes its community.   The NFT space will never be the same again.",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/QmdkJzP4MCBHfRxsWRg6u6TbDeWvYEdtf6bnEZhHc8CiJA",
+  //     animation_url:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/QmVb4uHGRZxFHqyJ21irHwiUSZt4H9CbRMT9iR99KC27Zw/5556.mp4",
+  //     dna: "ad71a078bdcf6e66e49e4cd3eddfcb149154afc0",
+  //     date: 1648783866552,
+  //     compiler: "Abdullah Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #1",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/1.png",
+  //     dna: "311cec431a96c0b99096bdd185084b908fa2bea6",
+  //     edition: 1,
+  //     date: 1653130651851,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "shirtandbracessilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "baseballhatsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #2",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/2.png",
+  //     dna: "9720aab8215ce978dd3dae7870f590f810372cbf",
+  //     edition: 2,
+  //     date: 1653130654175,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "tshirtandoverallssilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "flatcapsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #3",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/3.png",
+  //     dna: "5873ab4a126f0b92cc15ed487b06bca7efa573bc",
+  //     edition: 3,
+  //     date: 1653130656464,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "blazersilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "armyberetsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #4",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/4.png",
+  //     dna: "d2a5039a5b9194b2e3e5297160078bebaa645148",
+  //     edition: 4,
+  //     date: 1653130658987,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "puffysilver1",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "armyberetsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #5",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/5.png",
+  //     dna: "db75207aef8e26200f149ca4cbfc201d6db749e9",
+  //     edition: 5,
+  //     date: 1653130661355,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "shirtandbracessilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "armyberetsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #6",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/6.png",
+  //     dna: "e24787555f3aa5795fa9333252091d72a28377c3",
+  //     edition: 6,
+  //     date: 1653130663744,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "shirtandneckscarfsilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "baseballhatsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #7",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/7.png",
+  //     dna: "e9eda7d5580974b6719c7f2ed15d27b50decbbeb",
+  //     edition: 7,
+  //     date: 1653130666099,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "wastecoatsilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "baseballhatsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  //   {
+  //     name: "Sloppy Seals NFT #8",
+  //     description: "",
+  //     image:
+  //       "https://sloopyseals.mypinata.cloud/ipfs/Qmdi2vW5qYJfLJSWGcpbvnJSDiftLMgmf8xCy2axk5VT7J/8.png",
+  //     dna: "04b8bfa70c53ac649e86ef20f9a0f2b268416aa3",
+  //     edition: 8,
+  //     date: 1653130668606,
+  //     attributes: [
+  //       {
+  //         trait_type: "background",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "body",
+  //         value: "silver",
+  //       },
+  //       {
+  //         trait_type: "clothes",
+  //         value: "parkercoatsilver",
+  //       },
+  //       {
+  //         trait_type: "head",
+  //         value: "armyberetsilver",
+  //       },
+  //     ],
+  //     compiler: "HashLips Art Engine",
+  //     isStake: false,
+  //   },
+  // ]);
+
+
+
+
+
+className=
+                  {`${
+                    MyCurrentLevel === "selected"
+                      ? "rookienftselect"
+                      : "rookienft"
+                  }`}
+                  onClick=
+                  {() => {
+                    setNFTselected("selected");
+                  }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     {/* {data &&
+            data.map((nfts, index) => (
+              <div
+                className={`${
+                  MyCurrentLevel === "selected"
+                    ? "rookienftselect"
+                    : "rookienft"
+                }`}
+                onClick={() => {
+                  setNFTselected("selected");
+                }}
+              >
+                <img src={nfts.image} alt="nftimage.png" className="hjuy"></img>
+                <h4 className="Level-Selection-name">nfts.name</h4>
+              </div>
+            ))} */}
+            {/* <div
+            className={`${
+              MyCurrentLevel === "selected" ? "rookienftselect" : "rookienft"
+            }`}
+            onClick={() => {
+              setNFTselected("selected");
+            }}
+          >
+            <h4 className="Level-Selection-name">Rookie #069N</h4>
+          </div>{" "} */}
+            {/* <div className="rookienft">
+            <h4 className="Level-Selection-name">Rookie #079N</h4>
+          </div>{" "}
+          <div className="rookienft">
+            <h4 className="Level-Selection-name">Rookie #089N</h4>
+          </div>{" "}
+          <div className="rookienft">
+            <h4 className="Level-Selection-name">Rookie #099N</h4>
+          </div>{" "}
+          <div className="rookienft">
+            <h4 className="Level-Selection-name">Rookie #019N</h4>
+          </div>{" "}
+          <div className="rookienft">
+            <h4 className="Level-Selection-name">Rookie #019N</h4>
+          </div>{" "} */}
